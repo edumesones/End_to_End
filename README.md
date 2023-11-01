@@ -1,5 +1,6 @@
- 
-  # creacion repositorio github
+**Proyecto End to End** 
+Pasos necesarios para ir haciendo el código
+  ## creacion repositorio github
  
 1. creacion de entorno en carpeta de vscode, en terminal  <br>
   - py -m venv nombre_entorno <br>
